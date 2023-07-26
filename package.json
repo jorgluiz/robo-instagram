@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
